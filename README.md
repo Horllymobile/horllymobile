@@ -19,11 +19,11 @@ Hello there My name is James Abraham Olamide (a.k.a) Horllymobile
 
 I am currently working on getting better in Javascript and Python as a full-stack web developer
 
-I am currently Learning Angular, Nodejs, Typescript, Python, Django, MySQL, MongoDB, Data Structure and Algorithms
+I am currently Learning Angular, Nodejs, Typescript, Python, Django, MySQL, MongoDB, PostgresSQL, Data Structure and Algorithms
 
 I am Looking to collaborate on any project that comprise of the listed Tech that am Learning
 
-I will also be happy if i can get help on Typescript, MySQL, Angular Ngrx, Algorithms and Data Structure
+I will also be happy if i can get help on Typescript, MySQL,PostgresSQL, Relational Database, Angular Ngrx, Algorithms and Data Structure
 
 Ask me about this techs and my Day to Day activities
 
