@@ -31,3 +31,5 @@ Reach out to me on twitter @horllymobile
 
 Fact about me -> I love hacking tricks and showing off my Programming Skills 
 Computer is and always will be my best friend
+
+https://twitter.com/horllymobile https://www.linkedin.com/in/james-olamide-96b856191/
